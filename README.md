@@ -16,4 +16,4 @@ Testing involved unit tests for database operations, manual UI testing via the A
 Innovation was required to handle SMS permission denials gracefully. The app dynamically disabled SMS features while maintaining core functionality, using Snackbars to explain limitations without disrupting the user flow.
 
 **Standout Component**
-The SMS permission system best demonstrated expertise. It integrated Android’s ActivityResult API for modern permission handling, offered contextual explanations, and preserved app functionality when denied—showcasing user-centric design and technical proficiency.
+The SMS permission system best demonstrated expertise. It integrated Android’s ActivityResult API for modern permission handling, offered contextual explanations, and preserved app functionality.
